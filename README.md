@@ -173,11 +173,10 @@ Professional architecture firm website with responsive design. Showcases project
 </div>
 
 ---
-
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakibulislam75&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakibulislam75&theme=react-dark&hide_border=true&area=true&cache_seconds=1800" alt="Contribution Graph" width="95%" />
 </div>
 
 ---
