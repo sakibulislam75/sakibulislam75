@@ -57,12 +57,12 @@ I'm a passionate **Frontend Developer** with a strong foundation in modern web t
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ## 📊 GitHub Statistics
-
 <div align="center">
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sakibulislam75&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakibulislam75&theme=radical&hide_border=false" alt="GitHub Streak" width="49%" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Consistency+is+Key;Tracking+Daily+Progress;Building+Step+by+Step" alt="Typing SVG" />
 </div>
 
 ---
@@ -72,10 +72,7 @@ I'm a passionate **Frontend Developer** with a strong foundation in modern web t
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sakibulislam75&layout=compact&theme=radical&langs_count=10&hide_border=false" alt="Language Stats" />
 </div>
 
-
-
 ---
-
 
 ## 🎯 Featured Projects
 
@@ -164,17 +161,9 @@ Professional architecture firm website with responsive design. Showcases project
 </tr>
 </table>
 
-
-
 ---
 
-## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakibulislam75&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
 ## 📈 Contribution Activity
 
 <div align="center">
