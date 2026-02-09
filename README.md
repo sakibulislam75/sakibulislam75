@@ -95,7 +95,7 @@ A clean and modern landing page designed for educational content. Features a pro
 - Smooth CSS transitions
 - Professional typography
 
-[View Demo →](https://sakibulislam75.github.io/Knowledge-Vault/) | [Source Code →](https://github.com/sakibulislam75/Knowledge-Vault)
+[Live Link →](https://sakibulislam75.github.io/Knowledge-Vault/) | [Source Code →](https://github.com/sakibulislam75/Knowledge-Vault)
 
 </td>
 <td width="50%" valign="top">
@@ -114,7 +114,7 @@ Fully responsive landing page for an online learning platform. Optimized for all
 - Cross-browser compatibility
 - Modern UI/UX elements
 
-[View Demo →](https://sakibulislam75.github.io/TeachWave/) | [Source Code →](https://github.com/sakibulislam75/TeachWave)
+[Live Link →](https://sakibulislam75.github.io/TeachWave/) | [Source Code →](https://github.com/sakibulislam75/TeachWave)
 
 </td>
 </tr>
@@ -136,7 +136,7 @@ Responsive fitness website showcasing workout programs and health tips. Features
 - Performance optimized
 - Smooth scroll animations
 
-[View Demo →](https://sakibulislam75.github.io/Fitness-Websites/) | [Source Code →](https://github.com/sakibulislam75/Fitness-Websites)
+[Live Link →](https://sakibulislam75.github.io/Fitness-Websites/) | [Source Code →](https://github.com/sakibulislam75/Fitness-Websites)
 
 </td>
 <td width="50%" valign="top">
@@ -155,7 +155,7 @@ Professional architecture firm website with responsive design. Showcases project
 - Gallery showcase
 - Elegant typography
 
-[View Demo →](https://sakibulislam75.github.io/g3-architect-websites/) | [Source Code →](https://github.com/sakibulislam75/g3-architect-websites)
+[Live Link →](https://sakibulislam75.github.io/g3-architect-websites/) | [Source Code →](https://github.com/sakibulislam75/g3-architect-websites)
 
 </td>
 </tr>
