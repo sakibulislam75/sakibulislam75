@@ -67,7 +67,7 @@ I'm a passionate **Frontend Developer** with a strong foundation in modern web t
 
 ## 💻 Most Used Languages
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sakibulislam75&layout=compact&theme=radical&langs_count=10&hide_border=false&card_width=450" alt="Language Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibulislam75&layout=compact&theme=radical&langs_count=10&hide_border=false&cache_seconds=1800" alt="Language Stats" />
 </div>
 
 
