@@ -74,46 +74,47 @@ I'm a passionate **Frontend Developer** with a strong foundation in modern web t
 
 ---
 
+
 ## 🎯 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [Project Name 1]
-**Responsive Landing Page**
+### 🌐 [Knowledge-Vault](https://sakibulislam75.github.io/Knowledge-Vault/)
+**Educational Landing Page**
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 
-A modern, fully responsive landing page featuring smooth animations and interactive elements. Optimized for performance and SEO.
+A clean and modern landing page designed for educational content. Features a professional layout with smooth transitions and organized content sections.
 
 **Key Features:**
-- Mobile-first design approach
-- Cross-browser compatibility
-- Fast loading time
+- Clean and minimal design
+- Structured content layout
+- Smooth CSS transitions
+- Professional typography
 
-[View Demo →](#) | [Source Code →](#)
+[View Demo →](https://sakibulislam75.github.io/Knowledge-Vault/) | [Source Code →](https://github.com/sakibulislam75/Knowledge-Vault)
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 [Project Name 2]
-**E-Commerce Web App**
+### 📚 [TeachWave](https://sakibulislam75.github.io/TeachWave/)
+**Responsive Learning Platform**
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
-Full-featured e-commerce platform with product catalog, shopping cart, and user authentication.
+Fully responsive landing page for an online learning platform. Optimized for all devices with modern design principles and user-friendly interface.
 
 **Key Features:**
-- Real-time database integration
-- User authentication system
-- Responsive design
+- Fully responsive design
+- Mobile-first approach
+- Cross-browser compatibility
+- Modern UI/UX elements
 
-[View Demo →](#) | [Source Code →](#)
+[View Demo →](https://sakibulislam75.github.io/TeachWave/) | [Source Code →](https://github.com/sakibulislam75/TeachWave)
 
 </td>
 </tr>
@@ -121,44 +122,46 @@ Full-featured e-commerce platform with product catalog, shopping cart, and user 
 <tr>
 <td width="50%" valign="top">
 
-### 📱 [Project Name 3]
-**Portfolio Website**
+### 💪 [Fitness-Websites](https://sakibulislam75.github.io/Fitness-Websites/)
+**Health & Wellness Platform**
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 
-Personal portfolio showcasing projects and skills with modern UI/UX design principles.
+Responsive fitness website showcasing workout programs and health tips. Features an energetic design with smooth animations and intuitive navigation.
 
 **Key Features:**
-- Dark/Light mode toggle
-- Smooth scrolling navigation
-- Contact form integration
+- Responsive grid layout
+- Engaging visual elements
+- Performance optimized
+- Smooth scroll animations
 
-[View Demo →](#) | [Source Code →](#)
+[View Demo →](https://sakibulislam75.github.io/Fitness-Websites/) | [Source Code →](https://github.com/sakibulislam75/Fitness-Websites)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 [Project Name 4]
-**Dashboard UI**
+### 🏗️ [G3 Architect](https://sakibulislam75.github.io/g3-architect-websites/)
+**Architecture Portfolio**
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 
-Interactive admin dashboard with data visualization and user management features.
+Professional architecture firm website with responsive design. Showcases projects with elegant layouts and sophisticated visual presentation.
 
 **Key Features:**
-- Interactive charts and graphs
-- Real-time data updates
-- User role management
+- Professional design aesthetic
+- Fully responsive layout
+- Gallery showcase
+- Elegant typography
 
-[View Demo →](#) | [Source Code →](#)
+[View Demo →](https://sakibulislam75.github.io/g3-architect-websites/) | [Source Code →](https://github.com/sakibulislam75/g3-architect-websites)
 
 </td>
 </tr>
 </table>
+
+
 
 ---
 
