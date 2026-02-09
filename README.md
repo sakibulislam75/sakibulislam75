@@ -95,7 +95,7 @@ A clean and modern landing page designed for educational content. Features a pro
 - Smooth CSS transitions
 - Professional typography
 
-<a href="https://sakibulislam75.github.io/Knowledge-Vault/" style="text-decoration:none;">Live Link →</a> | <a href="https://github.com/sakibulislam75/Knowledge-Vault" style="text-decoration:none;">Source Code →</a>
+[Live Link →](https://sakibulislam75.github.io/Knowledge-Vault/) | [Source Code →](https://github.com/sakibulislam75/Knowledge-Vault)
 
 
 </td>
