@@ -80,82 +80,86 @@ I'm a passionate **Frontend Developer** with a strong foundation in modern web t
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [Knowledge-Vault](https://sakibulislam75.github.io/Knowledge-Vault/)
-**Educational Landing Page**
+### 💳 [PAYOO — Mobile Financial Services](https://sakibulislam75.github.io/PAYOO-Mobile-Financial-Services-Web-App/)
+**Mobile Financial Services Web App**
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-A clean and modern landing page designed for educational content. Features a professional layout with smooth transitions and organized content sections.
+A smart MFS interface for managing digital payments. Features money transfer, bill payments, cashout, and bonus rewards in a clean responsive UI.
 
 **Key Features:**
-- Clean and minimal design
-- Structured content layout
-- Smooth CSS transitions
-- Professional typography
+- Money transfer & bill payment flows
+- Add money & cash out functionality
+- Bonus & rewards system
+- Responsive with Tailwind + DaisyUI
 
-[Live Link →](https://sakibulislam75.github.io/Knowledge-Vault/) | [Source Code →](https://github.com/sakibulislam75/Knowledge-Vault)
-
+[Live Link →](https://sakibulislam75.github.io/PAYOO-Mobile-Financial-Services-Web-App/) | [Source Code →](https://github.com/sakibulislam75/PAYOO-Mobile-Financial-Services-Web-App)
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 [TeachWave](https://sakibulislam75.github.io/TeachWave/)
-**Responsive Learning Platform**
+### 🔍 [Job Tracer](https://sakibulislam75.github.io/job-Tracer/)
+**Job Search Tracking App**
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-Fully responsive landing page for an online learning platform. Optimized for all devices with modern design principles and user-friendly interface.
+A lightweight job application tracker to manage and monitor your job search progress. Clean UI with status tracking and organized application management.
 
 **Key Features:**
-- Fully responsive design
-- Mobile-first approach
-- Cross-browser compatibility
-- Modern UI/UX elements
+- Track job applications by status
+- Add & delete job entries
+- Filter by application stage
+- Clean responsive interface
 
-[Live Link →](https://sakibulislam75.github.io/TeachWave/) | [Source Code →](https://github.com/sakibulislam75/TeachWave)
+[Live Link →](https://sakibulislam75.github.io/job-Tracer/) | [Source Code →](https://github.com/sakibulislam75/job-Tracer)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 💪 [Fitness-Websites](https://sakibulislam75.github.io/Fitness-Websites/)
-**Health & Wellness Platform**
+### 🍵 [Tea House](https://sakibulislam75.github.io/Tea-House/)
+**Tea Brand Landing Page**
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-Responsive fitness website showcasing workout programs and health tips. Features an energetic design with smooth animations and intuitive navigation.
+A modern and elegant landing page for a premium tea brand. Features a bold hero section, product showcase, client testimonials and news grid.
 
 **Key Features:**
-- Responsive grid layout
-- Engaging visual elements
-- Performance optimized
-- Smooth scroll animations
+- Hero banner with CTA & rating badge
+- Featured product card grid
+- Client testimonials section
+- News & events layout
 
-[Live Link →](https://sakibulislam75.github.io/Fitness-Websites/) | [Source Code →](https://github.com/sakibulislam75/Fitness-Websites)
+[Live Link →](https://sakibulislam75.github.io/Tea-House/) | [Source Code →](https://github.com/sakibulislam75/Tea-House/tree/main)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏗️ [G3 Architect](https://sakibulislam75.github.io/g3-architect-websites/)
-**Architecture Portfolio**
+### 🌿 [Plant Tracer](https://sakibulislam75.github.io/Plant-Tracer/)
+**Indoor Plant Health Tracker**
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-Professional architecture firm website with responsive design. Showcases projects with elegant layouts and sophisticated visual presentation.
+A lightweight client-side app to track indoor plant health. Monitor watering, lighting, and plant status with a clean card-based dashboard.
 
 **Key Features:**
-- Professional design aesthetic
-- Fully responsive layout
-- Gallery showcase
-- Elegant typography
+- Add & delete plant cards
+- Thriving / Struggling status toggle
+- Live counter & status filtering
+- Responsive Tailwind + DaisyUI UI
 
-[Live Link →](https://sakibulislam75.github.io/g3-architect-websites/) | [Source Code →](https://github.com/sakibulislam75/g3-architect-websites)
+[Live Link →](https://sakibulislam75.github.io/Plant-Tracer/) | [Source Code →](https://github.com/sakibulislam75/Plant-Tracer)
 
 </td>
 </tr>
