@@ -79,12 +79,12 @@ I'm a passionate **Frontend Developer** with a strong foundation in modern web t
 ---
 
 ## 🎯 Featured Projects
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📲 [PAYOO — Mobile Financial Services](https://sakibulislam75.github.io/PAYOO-Mobile-Financial-Services-Web-App/)
+### 📲 [PAYOO](https://sakibulislam75.github.io/PAYOO-Mobile-Financial-Services-Web-App/)
+**Mobile Financial Services**
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -98,6 +98,8 @@ A smart MFS interface for managing digital payments. Features money transfer, bi
 - Add money & cash out functionality
 - Bonus & rewards system
 - Responsive with Tailwind + DaisyUI
+
+  
 
 [Live Link →](https://sakibulislam75.github.io/PAYOO-Mobile-Financial-Services-Web-App/) | [Source Code →](https://github.com/sakibulislam75/PAYOO-Mobile-Financial-Services-Web-App)
 
