@@ -57,6 +57,8 @@ I'm a passionate **Frontend Developer** with a strong foundation in modern web t
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Surge](https://img.shields.io/badge/Surge-%236B5B95.svg?style=for-the-badge&logo=surge&logoColor=white)
 
 
 
