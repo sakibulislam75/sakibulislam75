@@ -66,7 +66,7 @@ I'm a passionate **Frontend Developer** with a strong foundation in modern web t
 ## 📊 GitHub Statistics
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakibulislam75&theme=radical&hide_border=false" alt="GitHub Streak" width="49%" />
+<img src="https://streak-stats.demolab.com?user=sakibulislam75&theme=tokyonight&hide_border=true" width="49%">
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Consistency+is+Key;Tracking+Daily+Progress;Building+Step+by+Step" alt="Typing SVG" />
 </div>
