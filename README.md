@@ -10,8 +10,8 @@
   <em>Crafting seamless user experiences with clean code and creative design</em>
 </p>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakibulislam1624@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakibulislam1623@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakibul-islam75-ai)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sakibulislam75.github.io/development-workspace/)
 
 </div>
@@ -149,26 +149,30 @@ A seamless, modern platform to explore, borrow, and manage books — built with 
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 [GraphicsLab](https://graphicslab-demo.vercel.app/)
-**Educational Graphics Algorithms**
+### 👥 [Keen Keeper](https://keenkeeper75.netlify.app/)
+**Smart Friendship Management Platform**
 
-![C](https://img.shields.io/badge/C-00599C.svg?style=flat-square&logo=c&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4.svg?style=flat-square&logo=opengl&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8.svg?style=flat-square&logo=daisyui&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245.svg?style=flat-square&logo=react-router&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-8884D8.svg?style=flat-square&logoColor=white)
+![React Toastify](https://img.shields.io/badge/React_Toastify-FF8800.svg?style=flat-square&logo=react&logoColor=white)
 
-An interactive platform to visualize and learn computer graphics algorithms. Built with C/OpenGL for core rendering and React + Tailwind for modern UI.
+
+A modern, intuitive web application for managing friendships and tracking communication with the people who matter most.
 
 **✨ Key Features**
-- 🖼️ DDA & Midpoint Circle algorithm visualization  
-- 🔄 2D transformations (translation, rotation, scaling)  
-- 🎞️ Smooth animations with React + TailwindCSS  
-- 📱 Responsive interface for desktop & mobile  
+- 👥 Friend management with detailed profiles  
+- 📞 Communication tracking (calls, texts, video chats)  
+- 📊 Analytics dashboard with interactive charts  
+- 📱 Responsive design with TailwindCSS + DaisyUI  
 
-[Live Link →](https://graphicslab-demo.vercel.app/) | [Source Code →](https://github.com/sakibulislam75/graphicslab)
+[Live Link →](https://keenkeeper75.netlify.app/) | [Source Code →](https://github.com/sakibulislam75/keen-keeper)
 
 </td>
+
 
 <td width="50%" valign="top">
 
@@ -206,22 +210,6 @@ A modern platform where you can access multiple digital tools in one place — f
 
 ---
 
-## 🎓 Learning Path
-
-<div align="center">
-
-| Phase | Focus Area | Status |
-|-------|-----------|--------|
-| ✅ **Phase 1** | HTML, CSS, JavaScript Fundamentals | Completed |
-| ✅ **Phase 2** | Frontend Frameworks & Libraries | Completed |
-| 🔄 **Phase 3** | Backend Development (Node.js, Express) | In Progress |
-| 📋 **Phase 4** | Database Management & APIs | Upcoming |
-| 📋 **Phase 5** | Full Stack Project Development | Upcoming |
-
-</div>
-
----
-
 <div align="center">
 
 ### 💼 Open to Opportunities
@@ -235,8 +223,8 @@ Let's build something amazing together!
 
 ### 📫 Get In Touch
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakibulislam1624@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakibulislam1623@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakibul-islam75-ai)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakibulislam75)
 
 ---
