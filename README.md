@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=41E0FD&center=true&vCenter=true&width=600&lines=Hi,+I'm+Sakibul+Islam+👋;" alt="Typing SVG" />
 </div>
 
-### 🚀 Aspiring Full Stack Web Developer | Frontend Specialist
+### 🚀 Frontend Developer | React & Next.js Developer | Aspiring MERN Stack Developer
 
 <p align="center">
   <em>Crafting seamless user experiences with clean code and creative design</em>
@@ -19,12 +19,12 @@
 ---
 
 ## 👨‍💻 About Me
-I'm a passionate **Frontend Developer** with a strong foundation in modern web technologies and a clear vision to become a **Full Stack Web Developer**. Currently, I specialize in crafting pixel-perfect, responsive user interfaces that deliver exceptional user experiences across all devices.
+I'm a passionate Frontend Developer with hands-on experience building and deploying modern web applications using React.js, Next.js, MongoDB, Better Auth, and REST APIs. I enjoy creating responsive, user-friendly, and scalable applications with clean, maintainable code while expanding my backend skills with Node.js and Express.js toward MERN Stack development.
 
-🎯 **Currently Working On:** Frontend development projects with modern frameworks  
-📚 **Learning Journey:** Expanding my skills from frontend to full-stack development  
+🎯 **Currently Working On:** Building modern web applications and strengthening my backend development skills  
+📚 **Learning Journey:** Advancing in Node.js, Express.js and full‑stack MERN development  
 💼 **Open To:** Job opportunities, freelance work, and collaborative projects  
-🌱 **Growth Mindset:** Continuously learning and adapting to new technologies
+🌱 **Growth Mindset:** Continuously learning and adapting to new technologies  
 
 ---
 
@@ -36,9 +36,19 @@ I'm a passionate **Frontend Developer** with a strong foundation in modern web t
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![Flowbite](https://img.shields.io/badge/Flowbite-1C64F2?style=for-the-badge&logo=flowbite&logoColor=white)
+![HeroUI](https://img.shields.io/badge/HeroUI-0A66C2?style=for-the-badge&logo=react&logoColor=white)
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### 🛠️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![BetterAuth](https://img.shields.io/badge/BetterAuth-%23FF6F61.svg?style=for-the-badge&logo=auth0&logoColor=white)
+
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -57,8 +67,10 @@ I'm a passionate **Frontend Developer** with a strong foundation in modern web t
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
 ![Surge](https://img.shields.io/badge/Surge-%236B5B95.svg?style=for-the-badge&logo=surge&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
 
 
 
