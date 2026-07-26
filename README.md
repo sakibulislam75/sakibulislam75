@@ -97,90 +97,101 @@ I'm a passionate Frontend Developer with hands-on experience building and deploy
 <tr>
 <td width="50%" valign="top">
 
-### 📲 [PAYOO](https://sakibulislam75.github.io/PAYOO-Mobile-Financial-Services-Web-App/)
-**Mobile Financial Services**
+### 📰 [Dragon News](https://dragon-news-delta-amber.vercel.app/)
+**Modern News Platform**
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better%20Auth-6C47FF.svg?style=flat-square&logo=auth0&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white)
 
-A smart MFS interface for managing digital payments. Features money transfer, bill payments, cashout, and bonus rewards in a clean responsive UI.
+A modern platform for category‑based news browsing with secure authentication. Built using Next.js Route Groups for clean routing and responsive UI across all devices.
 
-**Key Features:**
-- Money transfer & bill payment flows
-- Add money & cash out functionality
-- Bonus & rewards system
-- Responsive with Tailwind + DaisyUI
+**✨ Key Features**
+- 📰 Category‑based news browsing  
+- 🔐 Secure authentication (Email, Google, GitHub)  
+- ⚡ Optimized performance with Next.js  
+- 📱 Responsive design with TailwindCSS + DaisyUI    
 
-  
-
-[Live Link →](https://sakibulislam75.github.io/PAYOO-Mobile-Financial-Services-Web-App/) | [Source Code →](https://github.com/sakibulislam75/PAYOO-Mobile-Financial-Services-Web-App)
+[Live Link →](https://dragon-news-delta-amber.vercel.app/) | [Source Code →](https://github.com/sakibulislam75/dragon-news)
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🔍 [Job Tracer](https://sakibulislam75.github.io/job-Tracer/)
-**Job Search Tracking App**
+### 📚 [BookNest](https://booknest-one-rose.vercel.app/)
+**Online Book Borrowing Platform**
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![BetterAuth](https://img.shields.io/badge/BetterAuth-6366F1.svg?style=flat-square&logo=auth0&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Swiper.js](https://img.shields.io/badge/Swiper.js-6332F6.svg?style=flat-square&logo=swiper&logoColor=white)
+![Animate.css](https://img.shields.io/badge/Animate.css-FF69B4.svg?style=flat-square&logo=css3&logoColor=white)
 
-A lightweight job application tracker to manage and monitor your job search progress. Clean UI with status tracking and organized application management.
+A seamless, modern platform to explore, borrow, and manage books — built with secure authentication and a fully responsive library experience.
 
-**Key Features:**
-- Track job applications by status
-- Add & delete job entries
-- Filter by application stage
-- Clean responsive interface
+**✨ Key Features**
+- 📖 Responsive book catalog with category filters  
+- 🔐 Secure authentication (Email + Google OAuth)  
+- 👤 Profile management with updates  
+- 🎞️ Smooth UI animations (Animate.css + Swiper.js)  
 
-[Live Link →](https://sakibulislam75.github.io/job-Tracer/) | [Source Code →](https://github.com/sakibulislam75/job-Tracer)
+[Live Link →](https://booknest-one-rose.vercel.app/) | [Source Code →](https://github.com/sakibulislam75/booknest)
 
 </td>
+
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🍵 [Tea House](https://sakibulislam75.github.io/Tea-House/)
-**Tea Brand Landing Page**
+### 🎨 [GraphicsLab](https://graphicslab-demo.vercel.app/)
+**Educational Graphics Algorithms**
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C.svg?style=flat-square&logo=c&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4.svg?style=flat-square&logo=opengl&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
-A modern and elegant landing page for a premium tea brand. Features a bold hero section, product showcase, client testimonials and news grid.
+An interactive platform to visualize and learn computer graphics algorithms. Built with C/OpenGL for core rendering and React + Tailwind for modern UI.
 
-**Key Features:**
-- Hero banner with CTA & rating badge
-- Featured product card grid
-- Client testimonials section
-- News & events layout
+**✨ Key Features**
+- 🖼️ DDA & Midpoint Circle algorithm visualization  
+- 🔄 2D transformations (translation, rotation, scaling)  
+- 🎞️ Smooth animations with React + TailwindCSS  
+- 📱 Responsive interface for desktop & mobile  
 
-[Live Link →](https://sakibulislam75.github.io/Tea-House/) | [Source Code →](https://github.com/sakibulislam75/Tea-House/tree/main)
+[Live Link →](https://graphicslab-demo.vercel.app/) | [Source Code →](https://github.com/sakibulislam75/graphicslab)
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🌿 [Plant Tracer](https://sakibulislam75.github.io/Plant-Tracer/)
-**Indoor Plant Health Tracker**
+### 🛠️ [Digitools Platform](https://toolhub-demo.vercel.app/)
+**All-in-One Digital Tools Platform**
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-19.2.4-61DAFB.svg?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.2.2-06B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-8.0.1-646CFF.svg?style=flat-square&logo=vite&logoColor=white)
 
-A lightweight client-side app to track indoor plant health. Monitor watering, lighting, and plant status with a clean card-based dashboard.
+A modern platform where you can access multiple digital tools in one place — from productivity utilities to creative design helpers — all wrapped in a clean responsive UI.
 
-**Key Features:**
-- Add & delete plant cards
-- Thriving / Struggling status toggle
-- Live counter & status filtering
-- Responsive Tailwind + DaisyUI UI
+**✨ Key Features**
+- 🛒 Centralized marketplace for diverse tools  
+- ⚡ Instant access & dynamic usage tracking  
+- 🔔 Smart notifications with React‑Toastify  
+- 📱 Fully responsive design with TailwindCSS  
 
-[Live Link →](https://sakibulislam75.github.io/Plant-Tracer/) | [Source Code →](https://github.com/sakibulislam75/Plant-Tracer)
+[Live Link →](https://digitools-platform75.netlify.app/) | [Source Code →](https://github.com/sakibulislam75/digitools-platform)
 
 </td>
+
 </tr>
 </table>
 
