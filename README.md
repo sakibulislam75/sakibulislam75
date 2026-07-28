@@ -14,7 +14,7 @@
 <tr>
 <td><a href="mailto:sakibulislam1623@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></td>
 <td><a href="https://www.linkedin.com/in/sakibul-islam75-ai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></td>
-<td><a href="https://sakibulislam75.github.io/development-workspace/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a></td>
+<td><a href="https://https://sakibulislam75.github.io//"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a></td>
 </tr>
 </table>
 
