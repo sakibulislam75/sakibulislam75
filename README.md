@@ -95,9 +95,10 @@ I'm a passionate Frontend Developer with hands-on experience building and deploy
 ---
 
 ## 🎯 Featured Projects
-<table>
+<div style="overflow-x:auto;">
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
 <tr>
-<td valign="top">
+<td style="width:50%; vertical-align:top; padding:10px;">
 
 ### 📰 [Dragon News](https://dragon-news-delta-amber.vercel.app/)
 **Modern News Platform**
@@ -121,7 +122,7 @@ A modern platform for category‑based news browsing with secure authentication.
 
 </td>
 
-<td valign="top">
+<td style="width:50%; vertical-align:top; padding:10px;">
 
 ### 📚 [BookNest](https://booknest-one-rose.vercel.app/)
 **Online Book Borrowing Platform**
@@ -149,7 +150,7 @@ A seamless, modern platform to explore, borrow, and manage books — built with 
 
 </tr>
 <tr>
-<td valign="top">
+<td style="width:50%; vertical-align:top; padding:10px;">
 
 ### 👥 [Keen Keeper](https://keenkeeper75.netlify.app/)
 **Smart Friendship Management Platform**
@@ -175,8 +176,7 @@ A modern, intuitive web application for managing friendships and tracking commun
 
 </td>
 
-
-<td valign="top">
+<td style="width:50%; vertical-align:top; padding:10px;">
 
 ### 🛠️ [Digitools Platform](https://toolhub-demo.vercel.app/)
 **All-in-One Digital Tools Platform**
@@ -200,6 +200,7 @@ A modern platform where you can access multiple digital tools in one place — f
 
 </tr>
 </table>
+</div>
 
 ---
 
