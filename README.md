@@ -95,10 +95,26 @@ I'm a passionate Frontend Developer with hands-on experience building and deploy
 ---
 
 ## 🎯 Featured Projects
+
+<style>
+  .project-cell img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+  }
+  @media (max-width: 600px) {
+    .project-cell {
+      display: block !important;
+      width: 100% !important;
+      max-width: 100% !important;
+    }
+  }
+</style>
+
 <div style="overflow-x:auto;">
-<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
-<tr>
-<td style="width:50%; vertical-align:top; padding:10px;">
+  <table style="width:100%; table-layout:fixed; border-collapse:collapse; word-break:break-word;">
+    <tr>
+      <td class="project-cell" style="width:50%; max-width:50%; vertical-align:top; padding:10px; overflow-x:auto; word-break:break-word;">
 
 ### 📰 [Dragon News](https://dragon-news-delta-amber.vercel.app/)
 **Modern News Platform**
@@ -121,8 +137,7 @@ A modern platform for category‑based news browsing with secure authentication.
 [Live Link →](https://dragon-news-delta-amber.vercel.app/) | [Source Code →](https://github.com/sakibulislam75/dragon-news)
 
 </td>
-
-<td style="width:50%; vertical-align:top; padding:10px;">
+<td class="project-cell" style="width:50%; max-width:50%; vertical-align:top; padding:10px; overflow-x:auto; word-break:break-word;">
 
 ### 📚 [BookNest](https://booknest-one-rose.vercel.app/)
 **Online Book Borrowing Platform**
@@ -147,10 +162,9 @@ A seamless, modern platform to explore, borrow, and manage books — built with 
 [Live Link →](https://booknest-one-rose.vercel.app/) | [Source Code →](https://github.com/sakibulislam75/booknest)
 
 </td>
-
 </tr>
 <tr>
-<td style="width:50%; vertical-align:top; padding:10px;">
+<td class="project-cell" style="width:50%; max-width:50%; vertical-align:top; padding:10px; overflow-x:auto; word-break:break-word;">
 
 ### 👥 [Keen Keeper](https://keenkeeper75.netlify.app/)
 **Smart Friendship Management Platform**
@@ -175,8 +189,7 @@ A modern, intuitive web application for managing friendships and tracking commun
 [Live Link →](https://keenkeeper75.netlify.app/) | [Source Code →](https://github.com/sakibulislam75/keen-keeper)
 
 </td>
-
-<td style="width:50%; vertical-align:top; padding:10px;">
+<td class="project-cell" style="width:50%; max-width:50%; vertical-align:top; padding:10px; overflow-x:auto; word-break:break-word;">
 
 ### 🛠️ [Digitools Platform](https://toolhub-demo.vercel.app/)
 **All-in-One Digital Tools Platform**
@@ -197,7 +210,6 @@ A modern platform where you can access multiple digital tools in one place — f
 [Live Link →](https://digitools-platform75.netlify.app/) | [Source Code →](https://github.com/sakibulislam75/digitools-platform)
 
 </td>
-
 </tr>
 </table>
 </div>
