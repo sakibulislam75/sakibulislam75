@@ -35,19 +35,73 @@ I'm a passionate Frontend Developer with hands-on experience building and deploy
 ## 🛠️ Tech Stack
 
 ### Frontend Development
-<sub><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" align="left" /><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" align="left" /><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" align="left" /><img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white" align="left" /><img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" align="left" /><img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white" align="left" /><img src="https://img.shields.io/badge/HeroUI-0A66C2?style=flat-square&logo=react&logoColor=white" align="left" /><img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" align="left" /><img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white" align="left" /></sub><br align="left" /><br />
+<table border="0">
+  <tr>
+    <td style="border: none;">
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+      <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white" />
+      <img src="https://img.shields.io/badge/HeroUI-0A66C2?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Backend & Database
-<sub><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" align="left" /><img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" align="left" /><img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" align="left" /><img src="https://img.shields.io/badge/REST_API-%23000000.svg?style=flat-square&logo=fastapi&logoColor=white" align="left" /><img src="https://img.shields.io/badge/Better%20Auth-%23FF6F61.svg?style=flat-square&logo=auth0&logoColor=white" align="left" /></sub><br align="left" /><br />
+<table border="0">
+  <tr>
+    <td style="border: none;">
+      <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
+      <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_API-%23000000.svg?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Better%20Auth-%23FF6F61.svg?style=flat-square&logo=auth0&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ### Programming Languages
-<sub><img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" align="left" /><img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" align="left" /><img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" align="left" /><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" align="left" /></sub><br align="left" /><br />
+<table border="0">
+  <tr>
+    <td style="border: none;">
+      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+    </td>
+  </tr>
+</table>
 
 ### Design Tools
-<sub><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" align="left" /><img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6" align="left" /><img src="https://img.shields.io/badge/Penpot-000000?style=flat-square&logo=penpot&logoColor=white" align="left" /><img src="https://img.shields.io/badge/Pixso-7B61FF?style=flat-square&logo=pixso&logoColor=white" align="left" /></sub><br align="left" /><br />
+<table border="0">
+  <tr>
+    <td style="border: none;">
+      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6" />
+      <img src="https://img.shields.io/badge/Penpot-000000?style=flat-square&logo=penpot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pixso-7B61FF?style=flat-square&logo=pixso&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ### Dev Tools
-<sub><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" align="left" /><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" align="left" /><img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" align="left" /><img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" align="left" /><img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=%2300C7B7" align="left" /><img src="https://img.shields.io/badge/Surge-%236B5B95.svg?style=flat-square&logo=surge&logoColor=white" align="left" /><img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white" align="left" /></sub><br align="left" /><br />
+<table border="0">
+  <tr>
+    <td style="border: none;">
+      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=%2300C7B7" />
+      <img src="https://img.shields.io/badge/Surge-%236B5B95.svg?style=flat-square&logo=surge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -70,22 +124,21 @@ I'm a passionate Frontend Developer with hands-on experience building and deploy
 
 ## 🎯 Featured Projects
 
-<div style="overflow-x:auto;">
-  <table style="width:100%; table-layout:fixed; border-collapse:collapse;">
-    <tr>
-      <td style="width:50%; max-width:50%; vertical-align:top; padding:10px; overflow-wrap:break-word;">
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <td style="vertical-align:top; padding:10px;">
 
 ### 📰 [Dragon News](https://dragon-news-delta-amber.vercel.app/)
 **Modern News Platform**
 
-<div style="display:flex; flex-wrap:wrap; gap:4px; align-items:center;">
-  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Better%20Auth-6C47FF.svg?style=flat-square&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B.svg?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white" />
-</div>
+<p align="left" style="margin:0; padding:0; line-height:1.8;">
+  <sub><img src="https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=next.js&logoColor=white" /></sub>
+  <sub><img src="https://img.shields.io/badge/React-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB" /></sub>
+  <sub><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" /></sub>
+  <sub><img src="https://img.shields.io/badge/Better%20Auth-6C47FF.svg?style=flat-square&logo=auth0&logoColor=white" /></sub>
+  <sub><img src="https://img.shields.io/badge/MongoDB-4EA94B.svg?style=flat-square&logo=mongodb&logoColor=white" /></sub>
+  <sub><img src="https://img.shields.io/badge/Vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white" /></sub>
+</p>
 
 A modern platform for category‑based news browsing with secure authentication. Built using Next.js Route Groups for clean routing and responsive UI across all devices.
 
@@ -98,21 +151,21 @@ A modern platform for category‑based news browsing with secure authentication.
 [Live Link →](https://dragon-news-delta-amber.vercel.app/) | [Source Code →](https://github.com/sakibulislam75/dragon-news)
 
 </td>
-      <td style="width:50%; max-width:50%; vertical-align:top; padding:10px; overflow-wrap:break-word;">
+    <td style="vertical-align:top; padding:10px;">
 
 ### 📚 [BookNest](https://booknest-one-rose.vercel.app/)
 **Online Book Borrowing Platform**
 
-<div style="display:flex; flex-wrap:wrap; gap:4px; align-items:center;">
-  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Better%20Auth-6366F1.svg?style=flat-square&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B.svg?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swiper.js-6332F6.svg?style=flat-square&logo=swiper&logoColor=white" />
-  <img src="https://img.shields.io/badge/Animate.css-FF69B4.svg?style=flat-square&logo=css3&logoColor=white" />
-</div>
+<p align="left" style="margin:0; padding:0; line-height:1.8;">
+  <sub><img src="https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=next.js&logoColor=white" /></sub>
+  <sub><img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=react&logoColor=black" /></sub>
+  <sub><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" /></sub>
+  <sub><img src="https://img.shields.io/badge/Better%20Auth-6366F1.svg?style=flat-square&logo=auth0&logoColor=white" /></sub>
+  <sub><img src="https://img.shields.io/badge/MongoDB-4EA94B.svg?style=flat-square&logo=mongodb&logoColor=white" /></sub>
+  <sub><img src="https://img.shields.io/badge/Vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white" /></sub>
+  <sub><img src="https://img.shields.io/badge/Swiper.js-6332F6.svg?style=flat-square&logo=swiper&logoColor=white" /></sub>
+  <sub><img src="https://img.shields.io/badge/Animate.css-FF69B4.svg?style=flat-square&logo=css3&logoColor=white" /></sub>
+</p>
 
 A seamless, modern platform to explore, borrow, and manage books — built with secure authentication and a fully responsive library experience.
 
@@ -125,22 +178,22 @@ A seamless, modern platform to explore, borrow, and manage books — built with 
 [Live Link →](https://booknest-one-rose.vercel.app/) | [Source Code →](https://github.com/sakibulislam75/booknest)
 
 </td>
-    </tr>
-    <tr>
-      <td style="width:50%; max-width:50%; vertical-align:top; padding:10px; overflow-wrap:break-word;">
+  </tr>
+  <tr>
+    <td style="vertical-align:top; padding:10px;">
 
 ### 👥 [Keen Keeper](https://keenkeeper75.netlify.app/)
 **Smart Friendship Management Platform**
 
-<div style="display:flex; flex-wrap:wrap; gap:4px; align-items:center;">
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8.svg?style=flat-square&logo=daisyui&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245.svg?style=flat-square&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/Recharts-8884D8.svg?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Toastify-FF8800.svg?style=flat-square&logo=react&logoColor=white" />
-</div>
+<p align="left" style="margin:0; padding:0; line-height:1.8;">
+  <sub><img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=react&logoColor=black" /></sub>
+  <sub><img src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat-square&logo=vite&logoColor=white" /></sub>
+  <sub><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" /></sub>
+  <sub><img src="https://img.shields.io/badge/DaisyUI-5A0EF8.svg?style=flat-square&logo=daisyui&logoColor=white" /></sub>
+  <sub><img src="https://img.shields.io/badge/React_Router-CA4245.svg?style=flat-square&logo=react-router&logoColor=white" /></sub>
+  <sub><img src="https://img.shields.io/badge/Recharts-8884D8.svg?style=flat-square&logoColor=white" /></sub>
+  <sub><img src="https://img.shields.io/badge/React_Toastify-FF8800.svg?style=flat-square&logo=react&logoColor=white" /></sub>
+</p>
 
 A modern, intuitive web application for managing friendships and tracking communication with the people who matter most.
 
@@ -153,17 +206,17 @@ A modern, intuitive web application for managing friendships and tracking commun
 [Live Link →](https://keenkeeper75.netlify.app/) | [Source Code →](https://github.com/sakibulislam75/keen-keeper)
 
 </td>
-      <td style="width:50%; max-width:50%; vertical-align:top; padding:10px; overflow-wrap:break-word;">
+    <td style="vertical-align:top; padding:10px;">
 
 ### 🛠️ [Digitools Platform](https://toolhub-demo.vercel.app/)
 **All-in-One Digital Tools Platform**
 
-<div style="display:flex; flex-wrap:wrap; gap:4px; align-items:center;">
-  <img src="https://img.shields.io/badge/React-19.2.4-61DAFB.svg?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-4.2.2-06B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-8.0.1-646CFF.svg?style=flat-square&logo=vite&logoColor=white" />
-</div>
+<p align="left" style="margin:0; padding:0; line-height:1.8;">
+  <sub><img src="https://img.shields.io/badge/React-19.2.4-61DAFB.svg?style=flat-square&logo=react&logoColor=white" /></sub>
+  <sub><img src="https://img.shields.io/badge/Tailwind_CSS-4.2.2-06B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white" /></sub>
+  <sub><img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" /></sub>
+  <sub><img src="https://img.shields.io/badge/Vite-8.0.1-646CFF.svg?style=flat-square&logo=vite&logoColor=white" /></sub>
+</p>
 
 A modern platform where you can access multiple digital tools in one place — from productivity utilities to creative design helpers — all wrapped in a clean responsive UI.
 
@@ -176,9 +229,8 @@ A modern platform where you can access multiple digital tools in one place — f
 [Live Link →](https://digitools-platform75.netlify.app/) | [Source Code →](https://github.com/sakibulislam75/digitools-platform)
 
 </td>
-    </tr>
-  </table>
-</div>
+  </tr>
+</table>
 
 ---
 
