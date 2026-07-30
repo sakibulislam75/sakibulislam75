@@ -104,118 +104,107 @@ I'm a passionate Frontend Developer with hands-on experience building and deploy
 </div>
 
 ---
-## 🎯 Featured ProjeCTA
----
+## 🎯 Featured Projects
 
-### 📚 BookNest
-**Online Book Borrowing Platform**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A modern platform for discovering, borrowing, and managing books through a responsive interface with secure authentication.
-
-#### ⚡ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Better_Auth-FF6F61?style=flat-square&logo=auth0&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-</p>
-
-#### ✨ Highlights
-
-- 📚 Category-based book browsing
-- 🔐 Email & Google OAuth authentication
-- 🛡️ Protected routes with Next.js Middleware
-- 👤 User profile management
-- 🎨 Responsive UI with smooth animations
-
-🔗 **[Live Demo →](https://booknest-one-rose.vercel.app/)** • **[Source Code →](https://github.com/sakibulislam75/booknest)**
-
----
-
-### 📰 Dragon News
+### 📰 [Dragon News](https://dragon-news-delta-amber.vercel.app/)
 **Modern News Platform**
 
-A responsive news platform featuring category-based browsing, secure authentication, and an optimized reading experience.
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better%20Auth-6C47FF.svg?style=flat-square&logo=auth0&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white)
 
-#### ⚡ Tech Stack
+A modern platform for category‑based news browsing with secure authentication. Built using Next.js Route Groups for clean routing and responsive UI.
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Better_Auth-6C47FF?style=flat-square&logo=auth0&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-</p>
+**✨ Key Features**
+- 📰 Category‑based news browsing  
+- 🔐 Secure authentication (Email, Google, GitHub)  
+- ⚡ Optimized performance with Next.js  
+- 📱 Responsive design with TailwindCSS + DaisyUI  
 
-#### ✨ Highlights
+[Live Link →](https://dragon-news-delta-amber.vercel.app/) | [Source Code →](https://github.com/sakibulislam75/dragon-news)
 
-- 📰 Category-based news browsing
-- 🔐 Email, Google & GitHub authentication
-- ⚡ Optimized routing with Next.js
-- 📱 Fully responsive design
+</td>
+<td width="50%" valign="top">
 
-🔗 **[Live Demo →](https://dragon-news-delta-amber.vercel.app/)** • **[Source Code →](https://github.com/sakibulislam75/dragon-news)**
+### 📚 [BookNest](https://booknest-one-rose.vercel.app/)
+**Online Book Borrowing Platform**
 
----
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better%20Auth-6366F1.svg?style=flat-square&logo=auth0&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Swiper.js](https://img.shields.io/badge/Swiper.js-6332F6.svg?style=flat-square&logo=swiper&logoColor=white)
+![Animate.css](https://img.shields.io/badge/Animate.css-FF69B4.svg?style=flat-square&logo=css3&logoColor=white)
 
-### 👥 Keen Keeper
-**Friendship Management Platform**
+A seamless, modern platform to explore, borrow, and manage books — built with secure authentication and a fully responsive library experience.
 
-A modern platform for organizing friendships and tracking communication with an intuitive dashboard.
+**✨ Key Features**
+- 📖 Responsive book catalog with category filters  
+- 🔐 Secure authentication (Email + Google OAuth)  
+- 👤 Profile management with updates  
+- 🎞️ Smooth UI animations (Animate.css + Swiper.js)  
 
-#### ⚡ Tech Stack
+[Live Link →](https://booknest-one-rose.vercel.app/) | [Source Code →](https://github.com/sakibulislam75/booknest)
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Recharts-8884D8?style=flat-square"/>
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-#### ✨ Highlights
+### 👥 [Keen Keeper](https://keenkeeper75.netlify.app/)
+**Smart Friendship Management Platform**
 
-- 👥 Friend management
-- 📞 Communication tracking
-- 📊 Interactive analytics dashboard
-- 📱 Fully responsive UI
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8.svg?style=flat-square&logo=daisyui&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245.svg?style=flat-square&logo=react-router&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-8884D8.svg?style=flat-square&logoColor=white)
+![React Toastify](https://img.shields.io/badge/React_Toastify-FF8800.svg?style=flat-square&logo=react&logoColor=white)
 
-🔗 **[Live Demo →](https://keenkeeper75.netlify.app/)** • **[Source Code →](https://github.com/sakibulislam75/keen-keeper)**
+A modern, intuitive web application for managing friendships and tracking communication with the people who matter most.
 
----
+**✨ Key Features**
+- 👥 Friend management with detailed profiles  
+- 📞 Communication tracking (calls, texts, video chats)  
+- 📊 Analytics dashboard with interactive charts  
+- 📱 Responsive design with TailwindCSS + DaisyUI  
 
-### 🛠️ DigiTools Platform
+[Live Link →](https://keenkeeper75.netlify.app/) | [Source Code →](https://github.com/sakibulislam75/keen-keeper)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ [Digitools Platform](https://toolhub-demo.vercel.app/)
 **All-in-One Digital Tools Platform**
 
-A collection of productivity and utility tools built with a clean, fast, and responsive interface.
+![React](https://img.shields.io/badge/React-19.2.4-61DAFB.svg?style=flat-square&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-4.2.2-06B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-8.0.1-646CFF.svg?style=flat-square&logo=vite&logoColor=white)
 
-#### ⚡ Tech Stack
+A modern platform where you can access multiple digital tools in one place — from productivity utilities to creative design helpers — all wrapped in a clean responsive UI.
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Toastify-FF8800?style=flat-square&logo=react&logoColor=white"/>
-</p>
+**✨ Key Features**
+- 🛒 Centralized marketplace for diverse tools  
+- ⚡ Instant access & dynamic usage tracking  
+- 🔔 Smart notifications with React‑Toastify  
+- 📱 Fully responsive design with TailwindCSS  
 
-#### ✨ Highlights
+[Live Link →](https://digitools-platform75.netlify.app/) | [Source Code →](https://github.com/sakibulislam75/digitools-platform)
 
-- 🛠️ Multiple digital tools
-- ⚡ Fast and responsive performance
-- 🔔 Smart notifications
-- 📱 Modern responsive interface
-
-🔗 **[Live Demo →](https://digitools-platform75.netlify.app/)** • **[Source Code →](https://github.com/sakibulislam75/digitools-platform)**
+</td>
+</tr>
+</table>
 
 ---
 
